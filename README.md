@@ -1,4 +1,4 @@
-##Hi there 👋, I'm Neil Andrei Garcia
+Hi there 👋, I'm Neil Andrei Garcia
 
 <!--
 **neilgarcia13/neilgarcia13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
