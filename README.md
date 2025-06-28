@@ -2,9 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=neilgarcia13&label=Profile%20views&color=0e75b6&style=flat" alt="neilgarcia13" /> </p>
 
 - 🔭 I’m currently working on **some side projects.**
-
 - 🌱 I’m currently learning **JavaScript and PHP frameworks.**
-
 - 📫 How to reach me **neilgrande2002@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
